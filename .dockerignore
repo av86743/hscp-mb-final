@@ -1,0 +1,11 @@
+# total show-stopper for chsc
+#.git
+
+.stack-work
+
+test/input
+test/output
+
+# total show-stopper for 9.2.5:
+#   module `main:Main' is defined in multiple files
+app/Setup.hs

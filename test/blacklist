@@ -1,0 +1,50 @@
+
+# too slow
+toys/AckermannPeano
+
+
+# too slow
+compile-time/ConcatMap-10
+compile-time/ConcatMap-11
+compile-time/ConcatMap-12
+
+compile-time/Simon-10
+compile-time/Simon-11
+compile-time/Simon-12
+
+# undefined: finish
+compile-time/ConcatMap
+
+
+# too slow
+imaginary/DigitsOfE1
+#imaginary/Queens
+#imaginary/Queens-NoLiterals
+#imaginary/Queens-Safer
+imaginary/Tak
+imaginary/Wheel-Sieve1
+imaginary/Wheel-Sieve2
+
+# wants Char
+# with "Char" -> "Data.Char": timeout
+imaginary/GenRegexps
+
+# wants Array
+# with "Array" -> "Data.Array as Array": timeout
+imaginary/Paraffins
+
+# wants Ratio
+#imaginary/Bernouilli
+
+# wants Complex
+#imaginary/X2N1
+
+
+# too slow
+#jason/Explode
+
+
+# 7.10.2: FAIL! 1250416704167500, 1400446540
+# 9.2.5:  FAIL! 1250416704167500, 1400446540
+neil/SumSquare
+
